@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../DriverMatcher.Tests/DriverMatcher.Tests.csproj" />
+  <Project Path="DriverMatcher.csproj" />
+</Solution>

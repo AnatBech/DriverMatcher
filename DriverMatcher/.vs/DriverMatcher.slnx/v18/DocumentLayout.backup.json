@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0430.\u0431\\drivermatcher\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0430.\u0431\\drivermatcher\\drivermatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|solutionrelative:drivermatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0430.\u0431\\drivermatcher\\benchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|solutionrelative:benchmark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|e:\\\u0443\u0447\u0435\u0431\u0430\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0430.\u0431\\drivermatcher\\drivermatcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A27B410F-A815-3258-A5A8-F73D72157E75}|DriverMatcher.csproj|solutionrelative:drivermatcher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\DriverMatcher.Tests\\DriverMatcherTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverMatcher.csproj",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\DriverMatcher.csproj",
+              "RelativeDocumentMoniker": "DriverMatcher.csproj",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\DriverMatcher.csproj",
+              "RelativeToolTip": "DriverMatcher.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-10T23:07:55.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Benchmark.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\Benchmark.cs",
+              "RelativeDocumentMoniker": "Benchmark.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\Benchmark.cs",
+              "RelativeToolTip": "Benchmark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T23:50:42.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DriverMatcher.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\DriverMatcher.cs",
+              "RelativeDocumentMoniker": "DriverMatcher.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\DriverMatcher.cs",
+              "RelativeToolTip": "DriverMatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T23:17:03.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Models.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0410.\u0411\\DriverMatcher\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T23:14:28.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DriverMatcherTests.cs",
+              "DocumentMoniker": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\DriverMatcher.Tests\\DriverMatcherTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\DriverMatcher.Tests\\DriverMatcherTests.cs",
+              "ToolTip": "E:\\\u0423\u0447\u0435\u0431\u0430\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\DriverMatcher.Tests\\DriverMatcherTests.cs",
+              "RelativeToolTip": "..\\..\\DriverMatcher.Tests\\DriverMatcherTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T23:03:43.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

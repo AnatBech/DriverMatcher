@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Benchmark-20260711-032959</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.15.8, Windows 11 (10.0.26200.7462/25H2/2025Update/HudsonValley2)
+11th Gen Intel Core i3-1115G4 3.00GHz, 1 CPU, 4 logical and 2 physical cores
+.NET SDK 10.0.301
+  [Host]     : .NET 10.0.9 (10.0.9, 10.0.926.27113), X64 RyuJIT x86-64-v4
+  DefaultJob : .NET 10.0.9 (10.0.9, 10.0.926.27113), X64 RyuJIT x86-64-v4
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method     </th><th>Mean</th><th>Error</th><th>StdDev</th><th>Median</th>
+</tr>
+</thead><tbody><tr><td>SimpleSearch</td><td>5.541 ms</td><td>0.2418 ms</td><td>0.7131 ms</td><td>5.141 ms</td>
+</tr><tr><td>HeapSearch</td><td>5.572 ms</td><td>0.0979 ms</td><td>0.1609 ms</td><td>5.538 ms</td>
+</tr><tr><td>QuickSelectSearch</td><td>15.922 ms</td><td>0.3078 ms</td><td>0.5550 ms</td><td>15.915 ms</td>
+</tr></tbody></table>
+</body>
+</html>
